@@ -11,6 +11,7 @@
     "react-redux": "^9.2.0",
     "react-router-dom": "^7.1.5",
     "react-scripts": "5.0.1",
+    "react-slick": "^0.30.3",
     "redux": "^5.0.1",
     "resolve-url-loader": "^5.0.0",
     "sass": "^1.83.4"
