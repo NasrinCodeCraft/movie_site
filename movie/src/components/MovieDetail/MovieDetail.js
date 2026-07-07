@@ -14,7 +14,7 @@ function MovieDetail() {
     return () => {
       dispatch(removeSelectedMovieOrShow());
     }
-  },[dispatch],imdbID);
+  },[dispatch, imdbID]);
   return (
     <div className='movie-section'>
       {Object.keys(data).length === 0 ? (
